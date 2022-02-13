@@ -4,6 +4,8 @@
 <h1 align="center">Cryptota</h1>
 <h3 align="center">⭐ Star us on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
 
+<p>Cryptota makes it easy for you to collect, store, analyze, visualize, and monitor cryptocurrency data. You can use this open source project to track Price, Bid/Ask Spreads, Size, and Volume, test hypotheses about markets, build machine learning models to predict price movements, understand volatility, arbitrage / algorithmically trade, and more. Cryptota enables high-quality cryptocurrency R&D across all major exchanges.</p>
+
 ![image](https://user-images.githubusercontent.com/78247889/153746522-ccf56cbc-bae1-4294-8b8f-f83b37abb872.png)
 
 ## Prerequisites 📑   
